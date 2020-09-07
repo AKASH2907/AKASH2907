@@ -28,9 +28,8 @@
 </a>
 --->
 
-- 🔭 I’m 1st year Ph.D. student at University of Central Florida.
-- 🌱 I’m currently working on Self-supervised learning.
-- ⚡ Fun fact: I'm a Barca fan (Messi4ever).
+- 🔭 I’m a 1st year Ph.D. student at the University of Central Florida.
+- 🌱 I’m currently working in the area of Self-supervised representation learning.
 
 <!--
 [![Twitter: imthepk](https://img.shiels.io/twitter/follow/imthepk?style=social)](https://twitter.com/imthepk)
@@ -52,7 +51,7 @@
 --->
 
 <a href="https://github.com/AKASH2907">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=AKASH2907&show_icons=true&theme=light&line_height=27" alt="Akash's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=AKASH2907&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" alt="Akash's github stats"/>
 </a>
 <!--
 <a href="https://github.com/iampawan/FlutterExampleApps">
