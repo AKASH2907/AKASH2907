@@ -29,7 +29,7 @@
 --->
 
 - 🔭 I’m a 1st year Ph.D. student at the University of Central Florida.
-- 🌱 I’m currently working in the area of Self-supervised representation learning.
+- 🌱 I’m currently working in the area of Self and Semi supervised representation learning.
 
 <!--
 [![Twitter: imthepk](https://img.shiels.io/twitter/follow/imthepk?style=social)](https://twitter.com/imthepk)
