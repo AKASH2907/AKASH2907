@@ -28,7 +28,7 @@
 </a>
 --->
 
-- 🔭 I’m a 1st year Ph.D. student at the University of Central Florida.
+- 🔭 I’m a 2nd year Ph.D. student at the University of Central Florida.
 - 🌱 I’m currently working in the area of Self and Semi supervised representation learning.
 
 <!--
