@@ -28,8 +28,8 @@
 </a>
 --->
 
-- 🔭 I’m a 2nd year Ph.D. student at the University of Central Florida.
-- 🌱 I’m currently working in the area of Semi supervised representation learning.
+- 🔭 I’m a 3rd year Ph.D. student at the University of Central Florida.
+- 🌱 I’m currently working in the area of Limited Labels supervision approaches for Video Understanding.
 
 <!--
 [![Twitter: imthepk](https://img.shiels.io/twitter/follow/imthepk?style=social)](https://twitter.com/imthepk)
