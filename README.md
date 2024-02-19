@@ -28,8 +28,8 @@
 </a>
 --->
 
-- 🔭 I’m a 3rd year Ph.D. student at the University of Central Florida.
-- 🌱 I’m currently working in the area of Limited Labels supervision approaches for Video Understanding.
+- 🔭 I’m a 4th year Ph.D. student at the University of Central Florida.
+- 🌱 I’m currently working in the area of Limited Labels supervision approaches (Semi/Weakly) for spatio-temporal Video Understanding tasks (Unimodal - Video Action Detection and Multimodal - Spatio-Temporal Video Grounding).
 
 <!--
 [![Twitter: imthepk](https://img.shiels.io/twitter/follow/imthepk?style=social)](https://twitter.com/imthepk)
