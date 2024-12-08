@@ -28,7 +28,7 @@
 </a>
 --->
 
-- 🔭 I’m a 4th year Ph.D. student at the University of Central Florida.
+- 🔭 I’m a 5th year Ph.D. student at the University of Central Florida.
 - 🌱 I’m currently working in the area of Limited Labels supervision approaches (Semi/Weakly) for spatio-temporal Video Understanding tasks (Unimodal - Video Action Detection and Multimodal - Spatio-Temporal Video Grounding).
 
 <!--
