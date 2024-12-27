@@ -29,7 +29,8 @@
 --->
 
 - 🔭 I’m a 5th year Ph.D. student at the University of Central Florida.
-- 🌱 I’m currently working in the area of Limited Labels supervision approaches (Semi/Weakly) for spatio-temporal Video Understanding tasks (Unimodal - Video Action Detection and Multimodal - Spatio-Temporal Video Grounding).
+- 🌱 Research Focus: Data-efficient approaches (Weakly/Semi/Self) for dense video tasks (Unimodal - Video Action Detection and Multimodal - Spatio-Temporal Video Grounding).
+- 🤖 Looking for internship/full-time positions **Summer'25**. Feel free to drop me an email. 
 
 <!--
 [![Twitter: imthepk](https://img.shiels.io/twitter/follow/imthepk?style=social)](https://twitter.com/imthepk)
