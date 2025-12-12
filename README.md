@@ -30,7 +30,7 @@
 
 - 🔭 I’m a final-year Ph.D. student at the University of Central Florida.
 - 🌱 Research Focus: Label-efficient approaches (Weakly/Semi/Self) for dense video tasks (Unimodal - Video Action Detection and Multimodal - Spatio-Temporal Video Grounding).
-- 🤖 Looking for long-intern(4-5 months)/full-time positions **Jan'26**. Feel free to drop me an email. 
+- 🤖 Looking actively for **full-time positions**. Feel free to drop me an email. 
     - 🔬 Label-Efficient (self/semi/weakly-supervised)
     - 🎥 Dense Video understanding (detection/segmentation)
     - 🤝 Adapting VLMs to be more user interactive + context aware
