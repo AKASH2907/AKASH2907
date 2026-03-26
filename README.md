@@ -28,13 +28,14 @@
 </a>
 --->
 
-- 🔭 I’m a final-year Ph.D. student at the University of Central Florida.
-- 🌱 Research Focus: Label-efficient approaches (Weakly/Semi/Self) for dense video tasks (Unimodal - Video Action Detection and Multimodal - Spatio-Temporal Video Grounding).
+- 🔭 I’m a Senior Machine Learning Engineer at Zendar. Working on multimodal fusion in AV space.
+- 🌱 PhD Research: Label-efficient approaches (Weakly/Semi/Self) for open-world dense video understanding.
+
+<!--
 - 🤖 Looking actively for **full-time positions**. Feel free to drop me an email. 
     - 🔬 Label-Efficient (self/semi/weakly-supervised)
     - 🎥 Dense Video understanding (detection/segmentation)
     - 🤝 Adapting VLMs to be more user interactive + context aware
-<!--
 [![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/imthepk/)
 [![GitHub iampawan](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/iampawan)
 [![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://pawan.live/)
